@@ -83,7 +83,7 @@ const App = () => {
       <div className="header">
         <div className="logo">
           
-          Sentiment
+          Sentiments
         </div>
         <ConnectButton />
       </div>
